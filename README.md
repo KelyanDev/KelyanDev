@@ -1,4 +1,12 @@
-### Hi there 👋
+## Projects and funs
+
+
+-- Languages --
+-Python
+-HTML
+-CSS
+-SQL
+
 
 <!--
 **KelyanDev/KelyanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
