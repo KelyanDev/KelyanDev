@@ -1,11 +1,11 @@
 ## Projects and funs
 
 
--- Languages --
--Python
--HTML
--CSS
--SQL
+-- Languages -- 
+-Python 
+-HTML 
+-CSS 
+-SQL 
 
 
 <!--
