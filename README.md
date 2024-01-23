@@ -5,9 +5,8 @@
 <div align="center">
   <p> A first year student in Networks and Telecommunications </p>
   <a href="https://www.linkedin.com/in/kélyan-tournebize-0295082a9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://KelyanDev.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white"></a> <br>
-    <br>
+  <a href="https://KelyanDev.github.io"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"</a>
+    <br> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelyanDev&layout=compact&theme=dark">
   <br> <br> <br> <hr>
 </div> <br>
@@ -25,6 +24,8 @@
   <a href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="https://www.w3schools.com/js/default.asp"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   <a href="https://www.w3schools.com/php/default.asp"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+  <a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+
   <hr>
   <h3> Programing tools </h3>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
