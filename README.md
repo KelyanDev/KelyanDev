@@ -25,6 +25,7 @@
   <a href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>                   <!-- CSS -->
   <a href="https://www.w3schools.com/sass/default.php"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>                  <!-- SASS -->
   <a href="https://www.w3schools.com/js/default.asp"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>       <!-- JavaScript -->
+  <a href="https://react.dev/learn"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>                                  <!-- React -->
   <a href="https://www.w3schools.com/php/default.asp"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>                     <!-- PHP -->
   <a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>                 <!-- MySQL -->
 
@@ -34,7 +35,8 @@
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>                                                                               <!-- Github -->
   <a href="https://www.w3schools.com/nodejs/default.asp"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>                              <!-- NodeJS -->
   <a href="https://www.apachefriends.org/fr/index.html"><img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></a>                                       <!-- Xampp -->
-  <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"></a>                                                                                        <!-- VMWare -->
+  <a href="https://www.mongodb.com/fr-fr"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>  <!-- MongoDB -->
+  <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"></a>                                                         <!-- VMWare -->
   <a href="https://www.cisco.com/site/fr/fr/index.html"><img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"></a>                                       <!-- Cisco -->
   <hr>
   <h3> Operating Systems </h3>
