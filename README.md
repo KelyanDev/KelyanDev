@@ -16,25 +16,26 @@
   <h2> Technologies & Tools 🛠️ </h2>
 </div>
 <div align="center">
-  <h3> Programing Languages and Libraries </h3>
 
   <h4> Backend </h4>
-  <a href="https://www.mongodb.com/fr-fr"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>                        <!-- MongoDB -->
   <a href="https://www.w3schools.com/python/default.asp"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>            <!-- Python -->
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">                              <!-- Express -->
   <a href="https://www.w3schools.com/python/numpy/default.asp"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>       <!-- Numpy -->
-  <a href="https://www.w3schools.com/nodejs/default.asp"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>     <!-- NodeJS -->
   <a href="https://www.w3schools.com/python/pandas/default.asp"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>    <!-- Pandas -->
+  <a href="https://www.w3schools.com/nodejs/default.asp"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>     <!-- NodeJS -->
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">                              <!-- Express -->
+  <a href="https://www.w3schools.com/php/default.asp"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>                    <!-- PHP -->
   <br>
 
   <h4> Frontend </h4>
-  <a href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>                <!-- HTML -->
-  <a href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>                   <!-- CSS -->
-  <a href="https://www.w3schools.com/sass/default.php"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>                  <!-- SASS -->
   <a href="https://www.w3schools.com/js/default.asp"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>       <!-- JavaScript -->
   <a href="https://react.dev/learn"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>                                  <!-- React -->
-  <a href="https://www.w3schools.com/php/default.asp"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>                     <!-- PHP -->
+  <a href="https://www.w3schools.com/sass/default.php"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>                  <!-- SASS -->
   <a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>                 <!-- MySQL -->
+  <a href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>                <!-- HTML -->
+  <a href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>                   <!-- CSS -->
+
+  <h4> Database </h4>
+  <a href="https://www.mongodb.com/fr-fr"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>                        <!-- MongoDB -->
 
   <hr>
   <h3> Programing tools / utilities </h3>
