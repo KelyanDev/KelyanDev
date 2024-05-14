@@ -22,7 +22,7 @@
   <a href="https://www.w3schools.com/python/numpy/default.asp"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>       <!-- Numpy -->
   <a href="https://www.w3schools.com/python/pandas/default.asp"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>    <!-- Pandas -->
   <a href="https://www.w3schools.com/nodejs/default.asp"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>     <!-- NodeJS -->
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">                              <!-- Express -->
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></a>                          <!-- Express -->
   <a href="https://www.w3schools.com/php/default.asp"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>                    <!-- PHP -->
   <br>
 
