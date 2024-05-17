@@ -5,7 +5,7 @@
 <div align="center">
   <p> A first year student in Networks and Telecommunications </p>
   <a href="https://www.linkedin.com/in/kélyan-tournebize-0295082a9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    <!-- Linkedin -->
-  <a href="https://KelyanDev.github.io"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"</a>                                <!-- Portfolio -->
+  <a href="https://KelyanDev.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"</a>                                <!-- Portfolio -->
     <br> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelyanDev&layout=compact&theme=dark&langs_count=6">
   <br> <br> <br> <hr>
