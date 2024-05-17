@@ -41,6 +41,7 @@
   <a href="https://visualstudio.microsoft.com/fr/free-developer-offers/"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>    <!-- VSCode -->
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>                                                                               <!-- Github -->
   <a href="https://www.apachefriends.org/fr/index.html"><img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></a>                                       <!-- Xampp -->
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>                                                                  <!-- Git -->
   <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"></a>                                                         <!-- VMWare -->
   <a href="https://www.cisco.com/site/fr/fr/index.html"><img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"></a>                                       <!-- Cisco -->
   <hr>
