@@ -30,7 +30,6 @@
   <a href="https://www.w3schools.com/js/default.asp"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>       <!-- JavaScript -->
   <a href="https://react.dev/learn"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>                                  <!-- React -->
   <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/></a>                                       <!-- Vite -->
-  <a href="https://learn.svelte.dev/tutorial/welcome-to-svelte"><img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"></a>    <!-- Svelte -->
   <a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>                 <!-- MySQL -->
   <a href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>                <!-- HTML -->
   <a href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>                   <!-- CSS -->
