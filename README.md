@@ -29,6 +29,7 @@
   <h4> Frontend </h4>
   <a href="https://www.w3schools.com/js/default.asp"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>       <!-- JavaScript -->
   <a href="https://react.dev/learn"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>                                  <!-- React -->
+  <a href="https://reactrouter.com/en/main"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a>            <!-- React Router -->
   <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/></a>                                       <!-- Vite -->
   <a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>                 <!-- MySQL -->
   <a href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>                <!-- HTML -->
@@ -40,6 +41,7 @@
   <h4> Tools </h4>
   <a href="https://visualstudio.microsoft.com/fr/free-developer-offers/"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>    <!-- VSCode -->
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>                                                                               <!-- Github -->
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>                                                                  <!-- Npm -->
   <a href="https://www.apachefriends.org/fr/index.html"><img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></a>                                       <!-- Xampp -->
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>                                                                  <!-- Git -->
   <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"></a>                                                         <!-- VMWare -->
