@@ -21,6 +21,7 @@
   <a href="https://www.w3schools.com/python/default.asp"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>            <!-- Python -->
   <a href="https://www.w3schools.com/python/numpy/default.asp"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>       <!-- Numpy -->
   <a href="https://www.w3schools.com/python/pandas/default.asp"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>    <!-- Pandas -->
+  <a href=""><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>                                                 <!-- Java -->
   <a href="https://www.w3schools.com/nodejs/default.asp"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>     <!-- NodeJS -->
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></a>                          <!-- Express -->
   <a href="https://www.w3schools.com/php/default.asp"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>                    <!-- PHP -->
