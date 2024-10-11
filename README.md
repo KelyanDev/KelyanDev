@@ -38,6 +38,7 @@
 
   <h4> Database </h4>
   <a href="https://www.mongodb.com/fr-fr"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>                        <!-- MongoDB -->
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>                      <!-- Firebase -->
 
   <h4> Tools </h4>
   <a href="https://visualstudio.microsoft.com/fr/free-developer-offers/"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>    <!-- VSCode -->
