@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/kélyan-tournebize-0295082a9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    <!-- Linkedin -->
   <a href="https://KelyanDev.github.io"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"</a>                                <!-- Portfolio -->
     <br> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelyanDev&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelyanDev&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=9">
   <br> <br> <hr>
 </div> <br>
 
