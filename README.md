@@ -4,13 +4,16 @@
 
 <div align="center">
   <p> A second year student in Networks and Telecommunications </p>
-  <a href="https://www.linkedin.com/in/kélyan-tournebize-0295082a9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    <!-- Linkedin -->
-  <a href="https://KelyanDev.github.io"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"</a>                                <!-- Portfolio -->
+  <a href="https://www.linkedin.com/in/kélyan-tournebize-0295082a9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>    <!-- Linkedin -->
+  <a href="https://KelyanDev.github.io"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>                                <!-- Portfolio -->
     <br> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelyanDev&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=9">
+    <!-- Stats -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KelyanDev&theme=dark"/><br>
+    <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelyanDev&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=10"/>
+  
   <br> <br> <hr>
 </div> <br>
-
 
 <div align="center">
   <h2> Technologies & Tools 🛠️ </h2>
@@ -64,5 +67,5 @@
   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>                                                            <!-- Windows 10 -->
   <a href="#"><img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"></a>                                                      <!-- Windows 11 -->
   <br> <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KelyanDev&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KelyanDev&theme=github_dark"/>
 </div>
