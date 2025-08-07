@@ -8,7 +8,7 @@
   <a href="https://KelyanDev.github.io"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>                                <!-- Portfolio -->
     <br> <br>
     <!-- Stats -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KelyanDev&theme=dark"/><br>
+  <!--<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KelyanDev&theme=dark"/><br>-->
     <!-- Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelyanDev&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=10"/>
   
